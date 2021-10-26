@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    margin-top: 50px;
+}
+
+.nahid{
+    margin-left: 50px;
+
+}
+#check-btn{
+    background-color: tomato;
+    color: black;
+    padding: 5px 10px ;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+
+}
